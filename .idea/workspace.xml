@@ -2,36 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba95ce4-f3c9-4170-b625-3d54e3a6b799" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex10/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex10/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex11/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex11/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex12/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex13/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex13/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex14/HorrorShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex15/Ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex16/Ex18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex17/Ex19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex18/Ex18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex19/Ex19Inner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex19/Ex19Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex20/WithInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex21/WithInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex22/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex23/Ex23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex24/GreenhouseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex24/GreenhouseControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex24/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex24/controller/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex25/Ex25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex25/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex25/controller/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex26/Ex26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex9/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclasses/Ex9/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex10/Ex5ThreadMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex11/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex12/AtomicityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex13/SerialNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex14/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex15/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex16/Ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex17/RadiationCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex18/Ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex19/OrientalGardenInterrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex2/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex20/CachedThreadPoolInterrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex20/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex21/Ex21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex3/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex4/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex7/Daemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex8/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex8/MoreBasicThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex9/PriorityThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Ex9/SimplePriorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/AtUnitRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/ClassNameFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/TestObjectCleanup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/TestObjectCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/atunit/TestProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/simple/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/simple/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/BasicGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/ContainerMethodDifferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/ConvertTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/CountingIntegerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/CountingMapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/DaemonThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/FiveTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/FourTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Generated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Hex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Null.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/OSExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/OSExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/PPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/ProcessFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/SwingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/TaskItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/ThreeTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/TwoTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/mindview/util/TypeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking-in-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-in-java.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,34 +96,36 @@
     <session id="1632982926">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="44" />
+          <entry key="java" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="3643" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="6859" />
           <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3643" />
-          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="JAVA" value="6859" />
+          <entry key="PLAIN_TEXT" value="70" />
         </counts>
       </usages-collector>
     </session>
@@ -86,10 +133,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex24/GreenhouseControls.java">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex17/RadiationCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="414">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex21/Ex21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex18/Ex18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,72 +171,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex24/GreenhouseController.java">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex19/OrientalGardenInterrupted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="28" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseControls.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="27" column="3" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/Ex25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex26/Ex26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="1278">
+              <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
               <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#113#114#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseController.java">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex20/CachedThreadPoolInterrupted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="198">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/controller/Event.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex20/LiftOff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex24/controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex8/LiftOff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex24/controller/Event.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex1/Ex1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex2/Ex2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/Ex9/PriorityThreadFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -191,25 +271,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex1/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex2/StringHolder.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex3/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex4/Sequence.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex5/Another.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex6/special/specialif.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex6/onemore/OuterChild.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex6/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex7/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex8/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex9/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex9/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex10/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex10/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex11/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex11/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex11/Ex11.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex12/Outer.java" />
-        <option value="$PROJECT_DIR$/src/innerclasses/Ex13/MyInterface.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/Ex13/Outer.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/Ex14/HorrorShow.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/Ex15/Ex15.java" />
@@ -232,6 +293,35 @@
         <option value="$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseController.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/Ex25/Ex25.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/Ex26/Ex26.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex1/Ex1.java" />
+        <option value="$PROJECT_DIR$/src/mindview/util/PPrint.java" />
+        <option value="$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java" />
+        <option value="$PROJECT_DIR$/src/net/mindview/atunit/AtUnitRemover.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex2/Ex2.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex3/Ex1.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex4/Ex2.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex5/Ex5.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex6/Ex6.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex7/Daemons.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex8/LiftOff.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex8/MoreBasicThreads.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex9/PriorityThreadFactory.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex9/SimplePriorities.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex10/Ex5ThreadMethod.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex10/Ex11.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex11/DataClass.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex11/Ex11.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex12/AtomicityTest.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex13/SerialNumberChecker.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex14/Ex14.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex15/Ex15.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex16/Ex16.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex17/RadiationCounter.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex18/Ex18.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex19/OrientalGardenInterrupted.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex20/LiftOff.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex20/CachedThreadPoolInterrupted.java" />
+        <option value="$PROJECT_DIR$/src/concurrency/Ex21/Ex21.java" />
       </list>
     </option>
   </component>
@@ -247,6 +337,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,56 +355,22 @@
               <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex19" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex21" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex25" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thinking-in-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex17" type="462c0819:PsiDirectoryNode" />
+              <item name="RadiationCounter.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="thinking-in-java" type="b2602c69:ProjectViewProjectNode" />
@@ -322,13 +380,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thinking-in-java-src/tij4-maven/pom.xml" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thinking-in-java-src/tij4-maven/lib/swt.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -336,15 +392,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="concurrency.Ex9" />
+      <recent name="concurrency.Ex8" />
       <recent name="innerclasses.Ex21" />
       <recent name="innerclasses.Ex12" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/concurrency/Ex7" />
+      <recent name="$PROJECT_DIR$/src/concurrency/Ex4" />
+      <recent name="$PROJECT_DIR$/src/concurrency/Ex3" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/innerclasses/Ex25" />
-      <recent name="$PROJECT_DIR$/src/innerclasses/Ex24" />
-      <recent name="$PROJECT_DIR$/src/innerclasses/Ex22" />
-      <recent name="$PROJECT_DIR$/src/innerclasses/Ex14" />
-      <recent name="$PROJECT_DIR$/src/innerclasses/Ex13" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,13 +417,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex26">
-    <configuration name="Ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclasses.Ex23.Ex23" />
+  <component name="RunManager" selected="Application.Ex21">
+    <configuration name="CachedThreadPoolInterrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Ex20.CachedThreadPoolInterrupted" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclasses.Ex23.*" />
+          <option name="PATTERN" value="concurrency.Ex20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +431,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclasses.Ex26.Ex26" />
+    <configuration name="Ex14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Ex14.Ex14" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclasses.Ex26.*" />
+          <option name="PATTERN" value="concurrency.Ex14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,12 +444,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreenhouseController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclasses.Ex24.GreenhouseController" />
+    <configuration name="Ex18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Ex18.Ex18" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclasses.Ex24.*" />
+          <option name="PATTERN" value="concurrency.Ex18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +457,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclasses.Ex22.Sequence" />
+    <configuration name="Ex21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Ex21.Ex21" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclasses.Ex22.*" />
+          <option name="PATTERN" value="concurrency.Ex21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,12 +470,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithInnerClass$Inner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerclasses.Ex21.WithInnerClass$Inner" />
+    <configuration name="OrientalGardenInterrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Ex19.OrientalGardenInterrupted" />
       <module name="thinking-in-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerclasses.Ex21.*" />
+          <option name="PATTERN" value="concurrency.Ex19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,19 +484,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WithInnerClass$Inner (1)" />
-      <item itemvalue="Application.Sequence" />
-      <item itemvalue="Application.Ex23" />
-      <item itemvalue="Application.GreenhouseController" />
-      <item itemvalue="Application.Ex26" />
+      <item itemvalue="Application.Ex14" />
+      <item itemvalue="Application.Ex18" />
+      <item itemvalue="Application.OrientalGardenInterrupted" />
+      <item itemvalue="Application.CachedThreadPoolInterrupted" />
+      <item itemvalue="Application.Ex21" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex26" />
-        <item itemvalue="Application.GreenhouseController" />
-        <item itemvalue="Application.Ex23" />
-        <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.WithInnerClass$Inner (1)" />
+        <item itemvalue="Application.Ex21" />
+        <item itemvalue="Application.CachedThreadPoolInterrupted" />
+        <item itemvalue="Application.OrientalGardenInterrupted" />
+        <item itemvalue="Application.Ex14" />
+        <item itemvalue="Application.Ex18" />
       </list>
     </recent_temporary>
   </component>
@@ -461,16 +519,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="31" width="1926" height="1052" extended-state="7" />
+    <frame x="-3" y="31" width="1926" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29659212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -485,7 +543,7 @@
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3297414" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973376" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
@@ -500,176 +558,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="up to 8 exercises of Inner Classes" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex1.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex6/special/Outer.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex1/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex2/StringHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex3/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex5/Another.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex6/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex6/onemore/OuterChild.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex6/special/specialif.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex8/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex4/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex9/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex9/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex10/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex11/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex11/Outer.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex10/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex11/Ex11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex7/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex13/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex13/MyInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex12/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex14/HorrorShow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex15/Ex15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex16/Ex18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex17/Ex19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex18/Ex18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex19/Ex19Inner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex19/Ex19Static.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -709,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,14 +613,21 @@
     <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseControls.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
+          <caret line="27" column="3" selection-start-line="9" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/Ex25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/GreenhouseController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -748,20 +640,248 @@
     <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex24/controller/Event.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex25/Ex25.java">
+    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex26/Ex26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        <state relative-caret-position="216">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Ex26/Ex26.java">
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/CountingGenerator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TaskItem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/ThreeTuple.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/ClassNameFinder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/OSExecute.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TypeCounter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/RandomGenerator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/TaskManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/Tuple.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/util/PPrint.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/AtUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/AtUnitRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="46" lean-forward="true" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex3/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="69" column="46" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex4/Ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex5/Ex5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="11" selection-start-line="9" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex6/Ex6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex7/Daemons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex8/MoreBasicThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex9/SimplePriorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex10/Ex5ThreadMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex11/Ex11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex12/AtomicityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex13/SerialNumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex14/Ex14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex15/Ex15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="8" lean-forward="true" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex16/Ex16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex18/Ex18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex19/OrientalGardenInterrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex20/CachedThreadPoolInterrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex20/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex8/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex1/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex2/Ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex9/PriorityThreadFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex17/RadiationCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/Ex21/Ex21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
