@@ -5,74 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ba95ce4-f3c9-4170-b625-3d54e3a6b799" name="Default Changelist" comment="Ex 21-24">
-      <change afterPath="$PROJECT_DIR$/src/annotations/Ex1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitComposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/AtUnitExternalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/ExtractInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/InterfaceExtractorProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/InterfaceExtractorProcessorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/PasswordUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/SimulatingNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/StackL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/StackLStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/Testable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/UseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/UseCaseTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/Constraints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/DBTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/SQLInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/SQLString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/TableCreationProcessorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/TableCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/annotations/database/Uniqueness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/AnonymousConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/BigEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/BigEgg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Callbacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/ClassInInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Contents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Destination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/DotNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/DotThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Factories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/GreenhouseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/GreenhouseControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/InheritInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/LocalInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/MultiImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/MultiInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/MultiNestingAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel7b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Parcel9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/TestBed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/TestParcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/Wrapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/innerclasses/controller/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/Ex1/SQLBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/Ex1/SQLReal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex1/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex1/Outer$Inner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex1/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex1/Outer.class" afterDir="false" />
@@ -201,6 +135,9 @@
       <change beforePath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/MyInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/Outer$1MyPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/Outer$1MyPrinter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/thinking-in-java/innerclasses/Ex9/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotations/Ex1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Ex1/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examples/annotations/database/TableCreationProcessorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/annotations/database/TableCreationProcessorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examples/annotations/database/TableCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/annotations/database/TableCreator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,6 +160,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
@@ -266,18 +204,19 @@
     <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="concurrency.Ex9" />
-      <recent name="concurrency.Ex8" />
-      <recent name="innerclasses.Ex21" />
-      <recent name="innerclasses.Ex12" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/concurrency/Ex7" />
       <recent name="$PROJECT_DIR$/src/concurrency/Ex4" />
       <recent name="$PROJECT_DIR$/src/concurrency/Ex3" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/innerclasses/Ex25" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="annotations.Ex1" />
+      <recent name="concurrency.Ex9" />
+      <recent name="concurrency.Ex8" />
+      <recent name="innerclasses.Ex21" />
+      <recent name="innerclasses.Ex12" />
     </key>
   </component>
   <component name="RunManager" selected="Application.TableCreator">
@@ -326,7 +265,7 @@
       <option name="PROGRAM_PARAMETERS" value="annotations.Ex1.Ex1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.annotations.database.*" />
+          <option name="PATTERN" value="annotations.Ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570829351883</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add examples">
+      <created>1658691801459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658691801459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +370,8 @@
     <MESSAGE value="up to 8 exercises of Inner Classes" />
     <MESSAGE value="First 21 exercises" />
     <MESSAGE value="Ex 21-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex 21-24" />
+    <MESSAGE value="Add examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add examples" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

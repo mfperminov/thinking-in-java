@@ -5,6 +5,8 @@
 // database/Member.java -s database}
 package examples.annotations.database;
 
+import annotations.Ex1.SQLBoolean;
+import annotations.Ex1.SQLReal;
 import com.sun.mirror.apt.AnnotationProcessor;
 import com.sun.mirror.apt.AnnotationProcessorEnvironment;
 import com.sun.mirror.apt.AnnotationProcessorFactory;
@@ -34,7 +36,8 @@ public class TableCreationProcessorFactory
         "annotations.database.DBTable",
         "annotations.database.Constraints",
         "annotations.database.SQLString",
-        "annotations.database.SQLInteger");
+        "annotations.database.SQLInteger",
+        "annotations.Ex1.SQLBoolean");
   }
 
   public Collection<String> supportedOptions() {
@@ -103,6 +106,28 @@ public class TableCreationProcessorFactory
           sql += "\n    " + columnName + " VARCHAR(" +
               sString.value() + ")" +
               getConstraints(sString.constraints()) + ",";
+        }
+        if (d.getAnnotation(SQLBoolean.class) != null) {
+          SQLBoolean sqlBoolean = d.getAnnotation(
+              SQLBoolean.class);
+          // Use field name if name not specified.
+          if (sqlBoolean.name().length() < 1) {
+            columnName = d.getSimpleName().toUpperCase();
+          } else {
+            columnName = sqlBoolean.name();
+          }
+        }
+        if (d.getAnnotation(SQLReal.class) != null) {
+          SQLReal sqlReal = d.getAnnotation(
+              SQLReal.class);
+          // Use field name if name not specified.
+          if (sqlReal.name().length() < 1) {
+            columnName = d.getSimpleName().toUpperCase();
+          } else {
+            columnName = sqlReal.name();
+          }
+          sql += "\n    " + columnName + " REAL " +
+              getConstraints(sqlReal.constraints()) + ",";
         }
       }
 

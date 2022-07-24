@@ -3,6 +3,8 @@
 // {Args: annotations.database.Member}
 package examples.annotations.database;
 
+import annotations.Ex1.SQLBoolean;
+import annotations.Ex1.SQLReal;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -56,6 +58,27 @@ public class TableCreator {
           columnDefs.add(columnName + " VARCHAR(" +
               sString.value() + ")" +
               getConstraints(sString.constraints()));
+        }
+        if (anns[0] instanceof SQLBoolean) {
+          SQLBoolean sqlBoolean = (SQLBoolean) anns[0];
+          // Use field name if name not specified.
+          if (sqlBoolean.name().length() < 1) {
+            columnName = field.getName();
+          } else {
+            columnName = sqlBoolean.name();
+          }
+          columnDefs.add(columnName + " BOOLEAN");
+        }
+        if (anns[0] instanceof SQLReal) {
+          SQLReal sqlReal = (SQLReal) anns[0];
+          // Use field name if name not specified.
+          if (sqlReal.name().length() < 1) {
+            columnName = field.getName();
+          } else {
+            columnName = sqlReal.name();
+          }
+          columnDefs.add(columnName + " REAL" +
+              getConstraints(sqlReal.constraints()));
         }
         StringBuilder createCommand = new StringBuilder(
             "CREATE TABLE " + tableName + "(");
